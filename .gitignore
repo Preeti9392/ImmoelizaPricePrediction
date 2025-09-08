@@ -6,3 +6,15 @@ new_file.ipynb
 ml_cleaning.ipynb
 dt_algorithm
 Cleaning.ipynb
+__pycache__/catboost.cpython-311.pyc
+catboost_info/catboost_training.json
+catboost_info/learn_error.tsv
+catboost_info/test_error.tsv
+catboost_info/time_left.tsv
+catboost_info/test/events.out.tfevents
+catboost_info/learn/events.out.tfevents
+xgboost.ipynb
+Ml_alg_trial.ipynb
+lightgbm.ipynb
+catboost.ipynb
+boosting_alg.ipynb
