@@ -18,6 +18,7 @@ This repo covers:
 > This project highlights **ML modeling skills** and end-to-end workflow from cleaned data to model deployment.
 
 ---
+```
 
 ├── data/
 │   ├── cleaned_data_before_imputation.csv
@@ -29,6 +30,7 @@ This repo covers:
 ├── requirements.txt
 └── README.md
 
+```
 
 ## 📊 Dataset
 
@@ -64,6 +66,7 @@ cd immoeliza-house-price-prediction
 pip install -r requirements.txt
 
 python main.py
+```
 
 📈 Model Performance
 
