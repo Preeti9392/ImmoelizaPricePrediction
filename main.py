@@ -107,7 +107,7 @@ plt.ylabel("Predicted Price (€)")
 plt.title("CatBoost: Actual vs Predicted Prices")
 plt.grid(True)
 plt.tight_layout()
-plt.show()
+plt.show() 
 
 # Q-Q Plot of Residuals
 residuals = y_test - test_preds
